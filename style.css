@@ -1,0 +1,61 @@
+.titulo{
+    font-family: Impact;
+    font-size: 70px;
+    color: red;
+    text-shadow: 5px 5px 5px black;
+    text-align: center;
+}
+.parrafo1{
+    font-family: 'Courier New', Courier;
+    color: rgb(27, 27, 27);
+    font-size: 20px;
+}
+.subtitulo1{
+    font-family: 'Courier New', Courier;
+    color: orange;
+    font-size: 40px;
+    text-decoration: underline;
+}
+.subtitulo2{
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier;
+    text-decoration: underline double;
+}
+.lista__desordenada, ol{
+    font-family: 'Courier New', Courier;
+    font-weight: bold;
+    font-size: 20px;
+}
+.centrar{
+    text-align: center;
+    color: green;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+img{
+    margin: auto;
+}
+a{
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: blueviolet;
+    text-align: center;
+    margin: 20px;
+    text-decoration: none;
+}
+.rojo{
+    color: red;
+}
+.amarillo{
+    color: yellow;
+}
+.verde{
+    color: green;
+}
+.lila{
+    color: blueviolet;
+}
